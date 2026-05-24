@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors: Evolution 🎮
+# Rock, Paper, Scissors: Evolution 
 
 This repository tracks my programming progress over the span of a single week, showcasing how I took a basic command-line game concept and refactored it into a robust, feature-rich, and crash-proof application.
 
